@@ -29,4 +29,4 @@ This submodule should be updated whenever Kauai Labs, Inc. releases a new compil
 1. Overwrite this repo's `navx_frc.jar` with the updated version.
 2. Run `sh generate-sources.sh` to automatically regenerate the `navx_frc-sources.jar` file.
 3. Branch, commit, test, pull request, get it merged
-4. Update the submodule references in parent repos
+4. Update the submodule references in parent repos by running the command `git submodule add https://github.com/RoboticsTeam4904/navXLibrary.git lib/navXLibrary` from the parent repo root
