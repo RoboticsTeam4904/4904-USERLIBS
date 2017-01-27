@@ -7,7 +7,7 @@ This submodule is meant to be used within another repository to enable the paren
 ## Use instructions
 This repository should be cloned into the `~/wpilib/user/java/lib` folder. To do this, run the following command:
 ```
-git clone git@github.com:RoboticsTeam4904/4904-USERLIBS.git ~/wpilib/user/java/lib
+git clone https://github.com/RoboticsTeam4904/4904-USERLIBS.git ~/wpilib/user/java/lib
 ```
 
 Once it's there, add the following to your repository's  `.classpath` file:
