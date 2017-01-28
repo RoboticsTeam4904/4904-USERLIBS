@@ -1,8 +1,8 @@
-# navXLibrary
-Team 4904's navX submodule.
+# 4904-USERLIBS
+Team 4904's User Libraries
 
 ## Purpose
-This submodule is meant to be used within another repository to enable the parent repository to use the navX library.
+This repository is inteded to be cloned into one's WPILIB installation in order to provide external/3rd-party libraries used by Bot Provoking robot code.
 
 ## Use instructions
 This repository should be cloned into the `~/wpilib/user/java/lib` folder. To do this, run the following command:
